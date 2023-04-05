@@ -1,0 +1,9 @@
+﻿  InOut.cpp
+D:\TestProject\TestProject\TestProject\InOut.cpp(12,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  TestLogic.cpp
+D:\TestProject\TestProject\TestProject\TestLogic.h(43,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProject\TestProject\TestProject\TestLogic.h(35): message : во время компиляции функции-члена класс шаблон "int testLogic::EngineTest<simulation::initialData>::EngineStart(void)"
+D:\TestProject\TestProject\TestProject\TestLogic.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "int testLogic::EngineTest<simulation::initialData>::EngineStart(void)"
+D:\TestProject\TestProject\TestProject\TestLogic.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testLogic::EngineTest<simulation::initialData>"
+  Создание кода...
+  TestProject.vcxproj -> D:\TestProject\TestProject\Debug\TestProject.exe
